@@ -1,4 +1,5 @@
 // Registros compartidos por la comunidad. Los datos se conservan tal como fueron proporcionados.
+// Registros compartidos por la comunidad. Los datos se conservan tal como fueron proporcionados.
 const levelsData = [
   {
     "name": "Nullscapes",
@@ -229,7 +230,7 @@ const levelsData = [
     ]
   },
   {
-    "name": "kyouki",
+    "name": "Kyouki",
     "world": 31,
     "latam": 13,
     "players": [
@@ -369,31 +370,31 @@ const levelsData = [
       },
       {
         "name": "xmercurylamp",
-        "country": "Argentina"
+        "country": "Brasil"
       },
       {
         "name": "elsanti33",
-        "country": "Chile"
+        "country": "Argentina"
       },
       {
         "name": "spookixz",
-        "country": "Argentina"
-      },
-      {
-        "name": "Fiumba",
-        "country": "México"
-      },
-      {
-        "name": "CharlyBustaRamos",
-        "country": "Argentina"
-      },
-      {
-        "name": "Bladersb",
         "country": "Chile"
       },
       {
+        "name": "Fiumba",
+        "country": "Argentina"
+      },
+      {
+        "name": "CharlyBustaRamos",
+        "country": "México"
+      },
+      {
+        "name": "Bladersb",
+        "country": "Argentina"
+      },
+      {
         "name": "kOre",
-        "country": "Venezuela"
+        "country": "Chile"
       },
       {
         "name": "Aless50",
@@ -401,23 +402,23 @@ const levelsData = [
       },
       {
         "name": "AlecZD",
-        "country": "Chile"
-      },
-      {
-        "name": "Horuszed",
         "country": "Venezuela"
       },
       {
+        "name": "Horuszed",
+        "country": "Chile"
+      },
+      {
         "name": "ChochoGD",
-        "country": "Colombia"
+        "country": "Venezuela"
       },
       {
         "name": "MateoGD04",
-        "country": "México"
+        "country": "Colombia"
       },
       {
         "name": "Alemao",
-        "country": "Brasil"
+        "country": "México"
       },
       {
         "name": "CringyDylan",
@@ -436,6 +437,64 @@ const levelsData = [
       },
       {
         "name": "playlino",
+        "country": "Argentina"
+      }
+    ]
+  },
+  {
+    "name": "KOCMOC",
+    "world": 39,
+    "latam": 17,
+    "players": [
+      {
+        "name": "Abdieldevil",
+        "country": "Perú"
+      },
+      {
+        "name": "stevenxd42",
+        "country": "México"
+      },
+      {
+        "name": "Paltadashg",
+        "country": "Chile"
+      },
+      {
+        "name": "Tihra",
+        "country": "Brasil"
+      },
+      {
+        "name": "RaeveZ",
+        "country": "Colombia"
+      },
+      {
+        "name": "monodynamics",
+        "country": "Brasil"
+      },
+      {
+        "name": "Horuszed",
+        "country": "Venezuela"
+      },
+      {
+        "name": "pizi",
+        "country": "Chile"
+      },
+      {
+        "name": "Donei GD",
+        "country": "México"
+      },
+      {
+        "name": "anibalplkz",
+        "country": "Perú"
+      }
+    ]
+  },
+  {
+    "name": "Being Home",
+    "world": 40,
+    "latam": 18,
+    "players": [
+      {
+        "name": "Samot",
         "country": "Argentina"
       }
     ]
