@@ -3,7 +3,7 @@
 const levelsData = [
   {
     "name": "Nullscapes",
-    "world": 10,
+    "world": 11,
     "latam": 1,
     "players": [
       {
@@ -14,7 +14,7 @@ const levelsData = [
   },
   {
     "name": "Every End",
-    "world": 14,
+    "world": 15,
     "latam": 2,
     "players": [
       {
@@ -25,7 +25,7 @@ const levelsData = [
   },
   {
     "name": "Silent Clubstep",
-    "world": 16,
+    "world": 17,
     "latam": 3,
     "players": [
       {
@@ -47,9 +47,20 @@ const levelsData = [
     ]
   },
   {
-    "name": "Andromeda",
-    "world": 19,
+    "name": "Ultra Paracosm",
+    "world": 18,
     "latam": 4,
+    "players": [
+      {
+            "name": "pizi",
+        "country": "Chile"
+      }
+    ]
+  },
+  {
+    "name": "Andromeda",
+    "world": 20,
+    "latam": 5,
     "players": [
       {
         "name": "xmercurylamp",
@@ -67,8 +78,8 @@ const levelsData = [
   },
   {
     "name": "Subsuming Vortex",
-    "world": 21,
-    "latam": 5,
+    "world": 22,
+    "latam": 6,
     "players": [
       {
         "name": "Rodmentor",
@@ -82,8 +93,8 @@ const levelsData = [
   },
   {
     "name": "Anathema",
-    "world": 22,
-    "latam": 6,
+    "world": 23,
+    "latam": 7,
     "players": [
       {
         "name": "Yuuwi",
@@ -96,9 +107,36 @@ const levelsData = [
     ]
   },
   {
+    "name": "Defeated Circles",
+    "world": 24,
+    "latam": 8,
+    "players": [
+      {
+        "name": "monodynamics",
+        "country": "Brasil"
+      },
+      {
+        "name": "pizi",
+        "country": "Chile"
+      },
+      {
+        "name": "MateoGD04",
+        "country": "Colombia"
+      },
+      {
+        "name": "xmercurylamp",
+        "country": "Brasil"
+      },
+      {
+        "name": "Franzy",
+        "country": "Argentina"
+      }
+    ]    
+  },
+  {   
     "name": "Avernus",
-    "world": 23,
-    "latam": 7,
+    "world": 25,
+    "latam": 9,
     "players": [
       {
         "name": "Abdieldevil",
@@ -108,8 +146,8 @@ const levelsData = [
   },
   {
     "name": "Acheron",
-    "world": 24,
-    "latam": 8,
+    "world": 27,
+    "latam": 10,
     "players": [
       {
         "name": "RaeveZ",
@@ -143,8 +181,8 @@ const levelsData = [
   },
   {
     "name": "Spectre",
-    "world": 25,
-    "latam": 9,
+    "world": 28,
+    "latam": 11,
     "players": [
       {
         "name": "luis",
@@ -166,8 +204,8 @@ const levelsData = [
   },
   {
     "name": "Abyss of Darkness",
-    "world": 27,
-    "latam": 10,
+    "world": 30,
+    "latam": 12,
     "players": [
       {
         "name": "DoSh7t",
@@ -188,20 +226,9 @@ const levelsData = [
     ]
   },
   {
-    "name": "Defeated Circles",
-    "world": 28,
-    "latam": 11,
-    "players": [
-      {
-        "name": "monodynamics",
-        "country": "Brasil"
-      }
-    ]
-  },
-  {
     "name": "Tunnel of Despair",
-    "world": 30,
-    "latam": 12,
+    "world": 31,
+    "latam": 14,
     "players": [
       {
         "name": "Abdieldevil",
@@ -231,8 +258,8 @@ const levelsData = [
   },
   {
     "name": "Kyouki",
-    "world": 31,
-    "latam": 13,
+    "world": 32,
+    "latam": 15,
     "players": [
       {
         "name": "manu",
@@ -278,7 +305,7 @@ const levelsData = [
   },
   {
     "name": "Based After Based",
-    "world": 33,
+    "world": 34,
     "latam": 14,
     "players": [
       {
@@ -293,8 +320,9 @@ const levelsData = [
   },
   {
     "name": "Slaughterhouse",
-    "world": 37,
-    "latam": 15,
+    "world": 38,
+    "latam": 16,
+    
     "players": [
       {
         "name": "RaeveZ",
@@ -428,8 +456,8 @@ const levelsData = [
   },
   {
     "name": "Subterminal Point",
-    "world": 38,
-    "latam": 16,
+    "world": 39,
+    "latam": 17,
     "players": [
       {
         "name": "pizi",
@@ -443,8 +471,8 @@ const levelsData = [
   },
   {
     "name": "KOCMOC",
-    "world": 39,
-    "latam": 17,
+    "world": 40,
+    "latam": 18,
     "players": [
       {
         "name": "Abdieldevil",
@@ -490,8 +518,8 @@ const levelsData = [
   },
   {
     "name": "Being Home",
-    "world": 40,
-    "latam": 18,
+    "world": 41,
+    "latam": 19,
     "players": [
       {
         "name": "Samot",
